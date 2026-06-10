@@ -1,5 +1,42 @@
 #: locale=pt
 
+## E-Learning
+
+### Answer
+questionOption_A524A91D_B3CF_8F5C_41E1_0B3621001070.text = Não
+questionOption_A5C54CFC_B3CF_86DC_41CF_634E6CC43981.text = Sim
+
+### Question
+question_A5EFEA04_B3CF_8D2C_41D2_91DB13586672.title = funciona no quest?
+
+### Question Screen
+quizQuestion_A4A01894_B3D7_8D2E_41CD_D289EBA23D1A.ok = OK
+
+### Report Screen
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.title = - SCORE -
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.completion = Completed
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.questionsCorrect = Correct
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.downloadCSV = Download .csv
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.questionsIncorrect = Incorrect
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.items = Items Found
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.questions = Questions
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.repeat = Repeat
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.submitToLMS = Submit
+quizScore_A4A79894_B3D7_8D2F_41D5_82DAC714A3F9.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_A4A01894_B3D7_8D2E_41B2_E19DFD655D78.title = - TIMEOUT -
+quizTimeout_A4A01894_B3D7_8D2E_41B2_E19DFD655D78.repeat = Repeat
+quizTimeout_A4A01894_B3D7_8D2E_41B2_E19DFD655D78.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_A05397F0_B1D2_81CD_41CD_76BD2427B1F6.text = {{ValorID}}
+
 ## Media
 
 ### 360 Video
@@ -31,7 +68,7 @@ audiores_AEB35A8F_8FA1_4B3D_41E0_8334A2D6A1CC.mp3Url = media/audio_AFC6D146_8EA1
 
 ### Image
 imlevel_A0D05084_B3D6_9D44_41C1_3A6C496A2E59.url = media/panorama_5CE6B3E5_4F8B_4E7E_41B5_560BA6876266_HS_8nb791jv_pt.webp
-imlevel_A03EA0DC_B3D6_9EC4_41CD_22E8A78D583C.url = media/panorama_75B9F342_5197_4E44_419F_0FDC582B3003_HS_0ycgqizd_pt.webp
+imlevel_A4186030_B3CE_9D63_41C3_80B02A462B99.url = media/panorama_75B9F342_5197_4E44_419F_0FDC582B3003_HS_0ycgqizd_pt.webp
 
 ### Title
 panorama_A17990A5_B152_7E1F_41CD_27C01F649BE1.label = T_Cena1_Video2
