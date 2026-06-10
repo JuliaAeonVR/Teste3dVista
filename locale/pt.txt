@@ -2,13 +2,6 @@
 
 ## E-Learning
 
-### Answer
-questionOption_A524A91D_B3CF_8F5C_41E1_0B3621001070.text = Não
-questionOption_A5C54CFC_B3CF_86DC_41CF_634E6CC43981.text = Sim
-
-### Question
-question_A5EFEA04_B3CF_8D2C_41D2_91DB13586672.title = funciona no quest?
-
 ### Question Screen
 quizQuestion_A4A01894_B3D7_8D2E_41CD_D289EBA23D1A.ok = OK
 
@@ -31,11 +24,6 @@ score1.label = Score 1
 quizTimeout_A4A01894_B3D7_8D2E_41B2_E19DFD655D78.title = - TIMEOUT -
 quizTimeout_A4A01894_B3D7_8D2E_41B2_E19DFD655D78.repeat = Repeat
 quizTimeout_A4A01894_B3D7_8D2E_41B2_E19DFD655D78.score = View Score
-
-## Hotspot
-
-### Text
-HotspotPanoramaOverlayTextImage_A05397F0_B1D2_81CD_41CD_76BD2427B1F6.text = {{ValorID}}
 
 ## Media
 
@@ -68,19 +56,20 @@ audiores_AEB35A8F_8FA1_4B3D_41E0_8334A2D6A1CC.mp3Url = media/audio_AFC6D146_8EA1
 
 ### Image
 imlevel_A0D05084_B3D6_9D44_41C1_3A6C496A2E59.url = media/panorama_5CE6B3E5_4F8B_4E7E_41B5_560BA6876266_HS_8nb791jv_pt.webp
-imlevel_A4186030_B3CE_9D63_41C3_80B02A462B99.url = media/panorama_75B9F342_5197_4E44_419F_0FDC582B3003_HS_0ycgqizd_pt.webp
 
 ### Title
+album_A4B49B50_B3B2_8320_41E3_9AC9D6A88BC7.label = Photo Album T_c2_respostaVideo1_EN.
 panorama_A17990A5_B152_7E1F_41CD_27C01F649BE1.label = T_Cena1_Video2
 panorama_84EA5368_8F23_A4C1_41DA_D8A390895842.label = T_Inicio_C1_V1_EN
 panorama_5CE6B3E5_4F8B_4E7E_41B5_560BA6876266.label = T_TelaInicial
 panorama_5D4968F1_4F8E_DA57_41B4_C5E90FDA8472.label = T_Video1_Cena1_1
 panorama_858F092D_8F23_A440_41CF_474BA5B06D87.label = T_c1_T1_RV1_EN
 panorama_85C844C0_8F23_ADC0_41D5_24EC1EEDAF1F.label = T_c1_V1_T1_EN
+album_A4B49B50_B3B2_8320_41E3_9AC9D6A88BC7_0.label = T_c2_respostaVideo1_EN.
 panorama_75B9F342_5197_4E44_419F_0FDC582B3003.label = T_finalFundo_EN
 video_73915BA4_6ECF_882E_41AD_2159255C1C92.label = V_C4_V1_auxiliar_EN
-video_6F7EF8CF_7142_886D_41D2_F296433A35AB.label = V_C4_V2_auxiliar_EN
 video_53A90EFF_7142_8829_41B8_F1E9B73DCB6A.label = V_C4_V2_auxiliar_EN
+video_6F7EF8CF_7142_886D_41D2_F296433A35AB.label = V_C4_V2_auxiliar_EN
 video_6D6AFA72_7146_8838_41D3_17BF92621BD4.label = V_c4_RespostaAuxiliarVideo1_EN
 video_605407A7_73CC_4122_4195_FD6F822735F4.label = V_c4_V3_auxiliar_1_EN
 video_668D52A3_73C5_C3DE_4199_5DEF771E700E.label = V_c4_V3_auxiliar_2_EN
